@@ -1,0 +1,2 @@
+# codeclause-internship-2
+TASK 2 FOR THE SUBMISSION ALLOCATED BY CODECLAUSE 
